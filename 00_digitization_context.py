@@ -11,6 +11,7 @@
 # MAGIC
 # MAGIC + antoine.amend@databricks.com
 # MAGIC + eon.retief@databricks.com
+# MAGIC + alex.barreto@datatbricks.com
 
 # COMMAND ----------
 
@@ -20,8 +21,13 @@
 # COMMAND ----------
 
 # MAGIC %md
+<<<<<<< HEAD
 # MAGIC &copy; 2022 Databricks, Inc. All rights reserved. The source in this notebook is provided subject to the Databricks License [https://databricks.com/db-license-source].  All included or referenced third party libraries are subject to the licenses set forth below.
 # MAGIC
+=======
+# MAGIC &copy; 2023 Databricks, Inc. All rights reserved. The source in this notebook is provided subject to the Databricks License [https://databricks.com/db-license-source].  All included or referenced third party libraries are subject to the licenses set forth below.
+# MAGIC 
+>>>>>>> 0dd165f (Updates to references)
 # MAGIC | library                                | description             | license    | source                                              |
 # MAGIC |----------------------------------------|-------------------------|------------|-----------------------------------------------------|
 # MAGIC | unidecode                              | Text processing         | GNU        | https://github.com/avian2/unidecode                 |
