@@ -9,11 +9,11 @@ ___
 
 + antoine.amend@databricks.com
 + eon.retief@databricks.com
-
++ alex.barreto@databricks.com
 ___
 
 
-<img src='https://raw.githubusercontent.com/databricks-industry-solutions/digitization-documents/main/images/reference_architecture.png' width=800>
+<img src='https://raw.githubusercontent.com/alexxx-db/digitization-documents/main/images/reference_architecture.png' width=800>
 
 ___
 
